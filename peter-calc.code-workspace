@@ -10,5 +10,10 @@
                 "webRoot": "${workspaceFolder}"
             }
         ]
-    }
+    },
+    "folders": [
+        {
+            "path": "."
+        }
+    ]
 }
